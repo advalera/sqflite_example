@@ -1,7 +1,7 @@
-import 'package:example_todo/data/models/task_model.dart';
-import 'package:example_todo/domain/controllers/task_controller.dart';
-import 'package:example_todo/ui/pages/task_detail_page.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_sqlite_todo/data/models/task_model.dart';
+import 'package:flutter_sqlite_todo/domain/controllers/task_controller.dart';
+import 'package:flutter_sqlite_todo/ui/pages/task_detail_page.dart';
 
 import 'package:get/get.dart';
 import 'package:intl/intl.dart';
